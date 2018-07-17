@@ -1,0 +1,3 @@
+MultinomialNB: 63.86%
+SVC: 80.45%
+
